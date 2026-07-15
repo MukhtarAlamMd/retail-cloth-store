@@ -1,0 +1,27 @@
+@media print {
+
+    .btn,
+
+    .form-control,
+
+    .form-select,
+
+    .form-check {
+
+        display: none !important;
+
+    }
+
+    body {
+
+        background: white;
+
+    }
+
+    table {
+
+        font-size: 12px;
+
+    }
+
+}
